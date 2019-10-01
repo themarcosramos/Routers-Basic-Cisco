@@ -114,7 +114,7 @@
 
 ###  Setar data e hora no Router
 >
-> Router # clock set < h:m:s> < dia mês ano >
+> Router # clock set < h : m : s> < dia mês ano >
 
 ### Reinicializa o Router
 >
